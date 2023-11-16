@@ -1,16 +1,13 @@
-# Lev README
+# LEV Color Theme for Visual Studio Code
 
-## Working with Markdown
+still working on improving the theme <3
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Launch Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon on the sidebar.
+3. Search for "LEV" in the Extensions Marketplace.
+4. Click Install to install it.
+5. Once installed, go to `File > Preferences > Color Theme` and select "LEV" from the dropdown menu.
 
 **Enjoy!**

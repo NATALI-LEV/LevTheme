@@ -1,6 +1,7 @@
 {
   "name": "Lev",
   "displayName": "Lev",
+  "publisher": "NATALI-LEV",
   "description": "Lev theme",
   "version": "0.0.1",
   "engines": {
@@ -20,5 +21,9 @@
   },
   "dependencies": {
     "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/NATALI-LEV/LevTheme"
   }
 }
