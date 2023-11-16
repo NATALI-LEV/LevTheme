@@ -3,7 +3,7 @@
   "displayName": "Lev",
   "publisher": "NATALI-LEV",
   "description": "Lev theme",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.84.0",
     "icon": "assets/logo.png"
