@@ -6,7 +6,7 @@
   "version": "0.0.9",
   "engines": {
     "vscode": "^1.84.0",
-    "icon": "assets/logo.png"
+    "icon": "assets/logoLev.png"
   },
   "categories": [
     "Themes"
@@ -16,14 +16,14 @@
       {
         "label": "LevDark",
         "uiTheme": "vs-dark",
-        "path": "assets/logo.png"
+        "path": "assets/logoLev.png"
       }
     ],
     "iconThemes": [
       {
         "id": "lev",
         "label": "lev",
-        "path": "assets/logo.png"
+        "path": "assets/logoLev.png"
       }
     ]
   },
