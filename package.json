@@ -3,7 +3,7 @@
   "displayName": "Lev",
   "publisher": "NATALI-LEV",
   "description": "Lev theme",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.84.0",
     "icon": "assets/logo.png"
@@ -16,14 +16,14 @@
       {
         "label": "LevDark",
         "uiTheme": "vs-dark",
-        "path": "./themes/LevDark-color-theme.json"
+        "path": "assets/logo.png"
       }
     ],
     "iconThemes": [
       {
         "id": "lev",
         "label": "lev",
-        "path": "./assets/logo.png"
+        "path": "assets/logo.png"
       }
     ]
   },
@@ -35,3 +35,4 @@
     "url": "https://github.com/NATALI-LEV/LevTheme"
   }
 }
+
