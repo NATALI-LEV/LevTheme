@@ -3,9 +3,10 @@
   "displayName": "Lev",
   "publisher": "NATALI-LEV",
   "description": "Lev theme",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.84.0",
+    "icon": "./assets/logo.png"
   },
   "categories": [
     "Themes"
@@ -16,6 +17,13 @@
         "label": "LevDark",
         "uiTheme": "vs-dark",
         "path": "./themes/LevDark-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "lev",
+        "label": "lev",
+        "path": "./assets/logo.png"
       }
     ]
   },
